@@ -45,9 +45,9 @@
     {"name": "Tours", "sub": "Krasnodar, Sochi, Vladivostok, Khabarovsk, Voronezh, Suzdal, Bali (how did that one end up here?)"}
   ],
   "artists": [
+    {"name": "Manapart", "sub": "Belgrade"},
     {"name": "Golos Omeriki", "sub": "Belgrade"},
     {"name": "Coffee Shop Kollektiv", "sub": "Belgrade"},
-    {"name": "Manapart", "sub": "Zappa Baza"},
     {"name": "Zventa Sventana", "sub": "tour"},
     {"name": "Olga Sinyaeva & AllSee Band", "sub": "tour"},
     {"name": "Alexey Kozlov & Arsenal", "sub": "club"}
